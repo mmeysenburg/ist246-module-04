@@ -1,0 +1,16 @@
+Welcome to the Doane RPN Calculator!
+Please enter an expression in postfix, EOF to quit.
+>>> 7
+>>> 35
+>>> -16
+>>> 2
+>>> 48
+>>> 18
+>>> 18
+>>> 14
+>>> 9
+>>> 8
+>>> 45
+>>> 80.5
+>>> 21.2903
+Good bye! 
